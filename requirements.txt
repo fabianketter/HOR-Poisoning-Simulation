@@ -3,3 +3,4 @@ plotly
 ipywidgets
 ipykernel
 voila
+nest_asyncio
