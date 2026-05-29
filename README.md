@@ -40,6 +40,6 @@ If you use this software, please cite it as follows:
 
 If you use this software, please cite it as follows:
 
-> Ketter, F., & Palkovits, R. (2026). HOR-Poisoning-Simulation (Version 0.1.0). Zenodo. https://doi.org/10.5281/zenodo.20446931
+> Ketter, F., & Palkovits, R. (2026). HOR-Poisoning-Simulation (Version 0.1.0). Zenodo. DOI will be added upon release
 
 Also see the `CITATION.cff` file for machine-readable citation metadata.
