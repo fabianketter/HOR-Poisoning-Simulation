@@ -11,3 +11,31 @@ A simulation qualitatively showing potential oscillations in PGM-metal depoisoni
 Launch on MyBinder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fabianketter/HOR-Poisoning-Simulation/HEAD?urlpath=voila/render/simulation.ipynb)
+
+## Installation
+
+Requires Python 3.8+ and the packages listed in `requirements.txt`.
+
+Install dependencies:
+
+```bash
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+Run the notebook locally:
+
+```bash
+# start Jupyter and open `simulation.ipynb`
+jupyter notebook simulation.ipynb
+```
+
+Or view interactively via MyBinder (badge above).
+
+## Citation
+
+If you use this software, please cite:
+
+- DOI: 10.5281/zenodo.20446931
+
+Also see the `CITATION.cff` file for machine-readable citation metadata.
