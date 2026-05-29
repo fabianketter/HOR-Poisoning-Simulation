@@ -1,4 +1,4 @@
-# HOR-Simulation
+# HOR-Poisoning-Simulation
 
 A simulation qualitatively showing potential oscillations in PGM-metal depoisoning of carbon monoxide
 
@@ -34,8 +34,12 @@ Or view interactively via MyBinder (badge above).
 
 ## Citation
 
-If you use this software, please cite:
+If you use this software, please cite it as follows:
 
-- DOI: 10.5281/zenodo.20446931
+## Citation
+
+If you use this software, please cite it as follows:
+
+> Ketter, F., & Palkovits, R. (2026). HOR-Poisoning-Simulation (Version 0.1.0). Zenodo. https://doi.org/10.5281/zenodo.20446931
 
 Also see the `CITATION.cff` file for machine-readable citation metadata.
