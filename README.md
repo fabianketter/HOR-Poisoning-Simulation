@@ -4,7 +4,7 @@ A simulation qualitatively showing potential oscillations in PGM-metal depoisoni
 
 ## Example results
 <p align="center">
-  <img src="figures/figure_1.png"  width="100%" />
+  <img src="Figures/Figure_1.png"  width="100%" />
 </p>
 
 
