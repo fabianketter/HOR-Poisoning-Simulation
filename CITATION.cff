@@ -1,13 +1,14 @@
 cff-version: "1.2.0"
 message: "If you use this software, please cite it as below."
-title: "HOR-Poisoning-Simulation"
-version: "1.0.0"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.20460259"
 authors:
   - family-names: "Ketter"
     given-names: "Fabian"
+    orcid: "https://orcid.org/0009-0003-4874-210X"
   - family-names: "Palkovits"
     given-names: "Regina"
+    orcid: "https://orcid.org/0000-0002-4970-2957"
+title: "HOR-Poisoning-Simulation"
+version: "1.0.0"
+doi: "10.5281/zenodo.20460259"
 date-released: "2026-05-29"
+url: "https://github.com/fabianketter/HOR-Poisoning-Simulation"
